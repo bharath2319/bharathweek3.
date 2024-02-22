@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bharathweek3./static/css/main.84055ee4.css",
+    "main.js": "/bharathweek3./static/js/main.00d39ad8.js",
+    "static/js/592.c167ad5f.chunk.js": "/bharathweek3./static/js/592.c167ad5f.chunk.js",
+    "index.html": "/bharathweek3./index.html",
+    "main.84055ee4.css.map": "/bharathweek3./static/css/main.84055ee4.css.map",
+    "main.00d39ad8.js.map": "/bharathweek3./static/js/main.00d39ad8.js.map",
+    "592.c167ad5f.chunk.js.map": "/bharathweek3./static/js/592.c167ad5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84055ee4.css",
+    "static/js/main.00d39ad8.js"
+  ]
+}
