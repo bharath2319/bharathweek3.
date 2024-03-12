@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/bharathweek3./static/css/main.84055ee4.css",
-    "main.js": "/bharathweek3./static/js/main.00d39ad8.js",
-    "static/js/592.c167ad5f.chunk.js": "/bharathweek3./static/js/592.c167ad5f.chunk.js",
+    "main.css": "/bharathweek3./static/css/main.da52f2e0.css",
+    "main.js": "/bharathweek3./static/js/main.012fb80d.js",
+    "static/js/592.1be7de09.chunk.js": "/bharathweek3./static/js/592.1be7de09.chunk.js",
+    "static/media/pic.jpeg": "/bharathweek3./static/media/pic.6fb5fb683d8d594e8059.jpeg",
     "index.html": "/bharathweek3./index.html",
-    "main.84055ee4.css.map": "/bharathweek3./static/css/main.84055ee4.css.map",
-    "main.00d39ad8.js.map": "/bharathweek3./static/js/main.00d39ad8.js.map",
-    "592.c167ad5f.chunk.js.map": "/bharathweek3./static/js/592.c167ad5f.chunk.js.map"
+    "main.da52f2e0.css.map": "/bharathweek3./static/css/main.da52f2e0.css.map",
+    "main.012fb80d.js.map": "/bharathweek3./static/js/main.012fb80d.js.map",
+    "592.1be7de09.chunk.js.map": "/bharathweek3./static/js/592.1be7de09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84055ee4.css",
-    "static/js/main.00d39ad8.js"
+    "static/css/main.da52f2e0.css",
+    "static/js/main.012fb80d.js"
   ]
 }
